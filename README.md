@@ -2,7 +2,10 @@
 
 Project to control expenses
 
-![App Example](./assets/images/appExample.png)
+![App Example1](./assets/images/appExample1.png)
+![App Example2](./assets/images/appExample2.png)
+![App Example3](./assets/images/appExample3.png)
+
 
 ## Getting Started
 
