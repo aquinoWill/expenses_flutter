@@ -1,6 +1,8 @@
 # expenses
 
-A new Flutter project.
+Project to control expenses
+
+![App Example](./assets/images/appExample.png)
 
 ## Getting Started
 
